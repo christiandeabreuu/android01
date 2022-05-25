@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="largura_100">100dp</dimen>
+    <dimen name="altura_250">100dp</dimen>
+    <dimen name="dimensao_titulo_filme">16sp</dimen>
+    <dimen name="margin_36">36dp</dimen>
+    <dimen name="tamanho_margin_24">24dp</dimen>
+</resources>
